@@ -1,1 +1,2 @@
 # Quicksort-1---Partition-algo
+This code carries out the Quick Sort partitioning step that reorders elements around the first element as pivot. It traverses the array to transfer all elements less than the pivot to the left half keeping their position in mind using index i. At the end, it swaps the pivot to its rightful sorted location between the smaller and greater elements, thus ending the partitioning.
